@@ -1,2 +1,4 @@
-# ultimate-team-suite
-Repositório para documentação, registro de bugs, sugestões e novas funcionalidades.
+# Ultimate Team Suite
+
+## Público Alvo
+Jogadores e Times de Poker e qualquer outro tipo de time que necessite estruturar e organizar o seu conteúdo.
