@@ -7,3 +7,4 @@ Sistema perfeito também para o seu grupo de amigos que estudam o Poker e procur
 ### Procurando Ajuda?
 1. [Como trocar sua senha?](Help/Como%20trocar%20sua%20senha.pdf)
 2. [Como encontrar o código de incorporação?](Help/embedcode.md)
+3. [Como ativar e desativar usuários](Help/userstatus.md)
