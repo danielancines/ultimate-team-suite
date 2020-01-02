@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/v/release/danielancines/ultimate-team-suite?label=Last%20Version)
+![](https://img.shields.io/badge/Development-1.6.0-yellow)
+
 # [Ultimate Team Suite](https://ultimateteamsuite.com)
 
 ### Público Alvo
