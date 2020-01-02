@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/v/release/danielancines/ultimate-team-suite?label=Last%20Version)
-![](https://img.shields.io/badge/Development-1.6.0-yellow)
+![](https://img.shields.io/website?down_message=Em%20Manuten%C3%A7%C3%A3o&label=Ultimate%20Team%20Suite&up_message=Online&url=https%3A%2F%2Fapp.ultimateteamsuite.com)
+
 
 # [Ultimate Team Suite](https://ultimateteamsuite.com)
 
