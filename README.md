@@ -1,4 +1,5 @@
-![](https://img.shields.io/website?down_message=Em%20Manuten%C3%A7%C3%A3o&label=Ultimate%20Team%20Suite&up_message=Online&url=https%3A%2F%2Fapp.ultimateteamsuite.com)
+![](https://img.shields.io/website?down_message=Offline&label=Ultimate%20Team%20Suite&up_message=Online&url=https%3A%2F%2Fapp.ultimateteamsuite.com)
+![](https://img.shields.io/website?down_message=Offline&label=Api&up_message=Online&url=https%3A%2F%2Fapi.ultimateteamsuite.com%2Fdevteam%2Fv1)
 
 
 # [Ultimate Team Suite](https://ultimateteamsuite.com)
