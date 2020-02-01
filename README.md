@@ -1,7 +1,7 @@
 ![](https://img.shields.io/github/v/release/danielancines/ultimate-team-suite?label=Version)
 ![](https://img.shields.io/github/v/release/danielancines/ultimate-team-suite?color=red&include_prereleases&label=Next%20Version)
 ![](https://img.shields.io/website?down_message=Offline&label=Ultimate%20Team%20Suite&up_message=Online&url=https%3A%2F%2Fapp.ultimateteamsuite.com)
-![](https://img.shields.io/website?down_message=Offline&label=Api&up_message=Online&url=https%3A%2F%2Fapi.ultimateteamsuite.com%2Fdevteam%2Fv1)
+![](https://img.shields.io/website?down_message=Offline&label=Api&up_message=Online&url=https%3A%2F%2Fapi.ultimateteamsuite.com%2Fakkariteam%2Fv1)
 
 # [Ultimate Team Suite](https://ultimateteamsuite.com)
 
